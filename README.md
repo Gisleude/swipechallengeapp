@@ -6,7 +6,7 @@ A swipe carousel with animations without external carousel libs, this applicatio
 ## App Running
 <img src="https://github.com/Gisleude/swipechallengeapp/blob/master/assets/1.jpeg"
      alt="First Image"
-     style="float: left; width: 250; height: 300" />
+     style="float: left; width: 30%" />
 ## How to Execute
 It's possible to execute the project as follow:
 
