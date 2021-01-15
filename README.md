@@ -4,10 +4,10 @@
 A swipe carousel with animations without external carousel libs, this application was a Senior React Native Developer Challenge.
 
 ## App Running
-![First Image](https://github.com/Gisleude/DevRadar/blob/master/assets/1.jpeg)
-![Second Image](https://github.com/Gisleude/DevRadar/blob/master/assets/2.jpeg)
-![Third Image](https://github.com/Gisleude/DevRadar/blob/master/assets/3.jpeg)
-![Fourth Image](https://github.com/Gisleude/DevRadar/blob/master/assets/4.jpeg)
+![First Image](https://github.com/Gisleude/swipechallengeapp/blob/master/assets/1.jpeg)
+![Second Image](https://github.com/Gisleude/swipechallengeapp/blob/master/assets/2.jpeg)
+![Third Image](https://github.com/Gisleude/swipechallengeapp/blob/master/assets/3.jpeg)
+![Fourth Image](https://github.com/Gisleude/swipechallengeapp/blob/master/assets/4.jpeg)
 
 ## How to Execute
 It's possible to execute the project as follow:
