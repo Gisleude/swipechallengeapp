@@ -4,6 +4,7 @@
 A swipe carousel with animations without external carousel libs, this application was a Senior React Native Developer Challenge.
 
 ## App Running
+You can see more images about the app on the assets directory.
 <img src="https://github.com/Gisleude/swipechallengeapp/blob/master/assets/1.jpeg"
      alt="First Image"
      style="float: center; margin-right: 10px;" />
