@@ -15,7 +15,7 @@ It's possible to execute the project as follow:
 
 2- `yarn start` - to start a react native project (terminal 1)
 
-3- `yarn run android` - to install the application on the android device (terminal 2)
-
+3(android)- `yarn run android` - to install the application on the android device (terminal 2)
+3(ios)- `yarn run ios` - to install the application on the ios device (terminal 2)
 ## Features
 Animations in the background, texts, carousel and their cards.
