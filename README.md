@@ -15,7 +15,13 @@ It's possible to execute the project as follow:
 
 2- `yarn start` - to start a react native project (terminal 1)
 
-3(ios)- `yarn run ios` - to install the application on the ios device (terminal 2)
+If you are running on IOS, please make these steps (I created the app on Ubuntu):
+
+3.1(ios)- `cd ios && pod install && cd ..` - to install the ios dependencies (terminal 2) 
+
+3.2(ios)- `yarn run ios` - to install the application on the ios device (terminal 2)
+
+If your are not running on IOS, please make these steps:
 
 3(android)- `yarn run android` - to install the application on the android device (terminal 2)
 ## Features
